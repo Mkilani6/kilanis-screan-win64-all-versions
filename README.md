@@ -9,3 +9,5 @@ The launcher also focuses on ease of use and accessibility. It features a menu-b
 Kilani’s Screen is versioned and maintained carefully. Each release improves stability, adds features, or fixes bugs while remaining compatible with a specific version of scrcpy. The project highlights the importance of keeping dependencies consistent, ensuring that both the launcher and the underlying scrcpy installation are synchronized for reliable operation.
 
 In summary, Kilani’s Screen is more than just a screen mirroring tool. It’s a small but powerful project that showcases problem-solving, debugging, and development skills. It combines technical functionality with thoughtful usability, offering an approachable experience for users of all levels while maintaining the flexibility and power of scrcpy under the hood. Powered by scrcpy, Kilani’s Screen demonstrates how custom tools can enhance productivity and creativity without reinventing the wheel.
+
+-*powered by scrcpy*-
