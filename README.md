@@ -1,1 +1,11 @@
-# kilanis-screan-win64-all-versions
+Kilani’s Screen: Wireless Android Screen Mirroring Launcher
+
+Kilani’s Screen is a custom launcher for Windows that makes Android screen mirroring fast, intuitive, and versatile. Built on top of scrcpy, it combines the stability of a proven mirroring tool with a user-friendly interface, giving anyone the ability to view and control their Android device from a PC. Whether you want to project your phone’s display for work, school, or personal projects, Kilani’s Screen simplifies the process and supports both USB and wireless connections.
+
+One of the standout features of Kilani’s Screen is its wireless mirroring capability. Users can connect their Android device over Wi-Fi by entering the device IP, eliminating the need for constant cable connections. For users who prefer USB connections or need initial pairing, the launcher handles that seamlessly as well, ensuring a smooth setup. Additionally, Kilani’s Screen includes a handy option to clear TCP/IP connections, making it easy to troubleshoot and reset connections if multiple devices are used.
+
+The launcher also focuses on ease of use and accessibility. It features a menu-based interface that guides users through the connection process, including a tutorial for finding the device IP and enabling USB debugging. With fullscreen and borderless modes available, the mirrored display can become nearly indistinguishable from the device itself, making presentations, streaming, or testing applications more professional and clean.
+
+Kilani’s Screen is versioned and maintained carefully. Each release improves stability, adds features, or fixes bugs while remaining compatible with a specific version of scrcpy. The project highlights the importance of keeping dependencies consistent, ensuring that both the launcher and the underlying scrcpy installation are synchronized for reliable operation.
+
+In summary, Kilani’s Screen is more than just a screen mirroring tool. It’s a small but powerful project that showcases problem-solving, debugging, and development skills. It combines technical functionality with thoughtful usability, offering an approachable experience for users of all levels while maintaining the flexibility and power of scrcpy under the hood. Powered by scrcpy, Kilani’s Screen demonstrates how custom tools can enhance productivity and creativity without reinventing the wheel.
