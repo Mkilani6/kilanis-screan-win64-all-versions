@@ -1,4 +1,4 @@
-Kilani’s Screen: Wireless Android Screen Mirroring Launcher
+_*Kilani’s Screen: Wireless Android Screen Mirroring Launcher*_
 
 Kilani’s Screen is a custom launcher for Windows that makes Android screen mirroring fast, intuitive, and versatile. Built on top of scrcpy, it combines the stability of a proven mirroring tool with a user-friendly interface, giving anyone the ability to view and control their Android device from a PC. Whether you want to project your phone’s display for work, school, or personal projects, Kilani’s Screen simplifies the process and supports both USB and wireless connections.
 
