@@ -10,4 +10,4 @@ Kilani’s Screen is versioned and maintained carefully. Each release improves s
 
 In summary, Kilani’s Screen is more than just a screen mirroring tool. It’s a small but powerful project that showcases problem-solving, debugging, and development skills. It combines technical functionality with thoughtful usability, offering an approachable experience for users of all levels while maintaining the flexibility and power of scrcpy under the hood. Powered by scrcpy, Kilani’s Screen demonstrates how custom tools can enhance productivity and creativity without reinventing the wheel.
 
--*powered by scrcpy*-
+*powered by scrcpy*
